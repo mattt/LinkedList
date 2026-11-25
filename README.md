@@ -194,4 +194,4 @@ preventing race conditions.
 ## License
 
 LinkedList is available under the MIT license.
-See the [LICENSE](LICENSE) file for more info.
+See the [LICENSE](LICENSE.md) file for more info.
